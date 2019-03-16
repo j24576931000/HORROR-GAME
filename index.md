@@ -1,20 +1,15 @@
-<h4> Welcome</h4>
+<h15>Welcome<h15>
 
 
-<h2>1. outlast</h2>
+<h10>1. outlast</h10>
 <p><a href=" https://j24576931000.github.io/outlast/"><img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Outlast2.png" /></a></p>
 <h5>點擊圖片看介紹</h5>
 
   
 
-  <h2>2. P.T.</h2>
-  <p><img src="https://www.upmedia.mg/upload/ck/ptdemo2.jpg" /></p>
-  <p>P.T.是第一人稱恐怖遊戲,小島秀夫監督,於2014年8月12日在PlayStation Network免費下載，作為被取消開發的沉默之丘系列作品「Silent Hills」的互動宣傳片,現已移除,主角在一所鬧鬼的房子中醒來經歷多個超自然事件,僅有一道不斷輪迴的L型走廊以及相鄰的兩個房間,每一次輪迴時房間會出現變化,此後有許仿P.T.的作品 -------------
-  部分取自<a href="https://zh.wikipedia.org/wiki/P.T.">維基百科</a></p>
-  
- <p>----------影片----------</p>
-<p>P.T.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/01zB_T91aTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h10>2. P.T.</h10>
+  <p><a href=" https://j24576931000.github.io/P.T./."><img src="https://www.upmedia.mg/upload/ck/ptdemo2.jpg" /></a></p>
+  <h5>點擊圖片看介紹</h5>
 
 <h2>3.Amnesia: The Dark Descent</h2>
 <p><img src="https://steamcdn-a.akamaihd.net/steam/apps/57300/header.jpg?t=1470159681" /></p>
