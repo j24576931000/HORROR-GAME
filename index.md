@@ -13,5 +13,5 @@
   <p>outlast2</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/JJQwvnwho_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <h2>2. P.T.</h2>
-  <p><img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiL8ZCQ64XhAhUE7rwKHXE-DaYQjRx6BAgBEAU&url=https%3A%2F%2Fwww.upmedia.mg%2Fnews_info.php%3FSerialNo%3D51259&psig=AOvVaw0nkMhgUvM0eVYTNR5WJ2gi&ust=1552797346391362" /></p>
+  <p><img src="https://www.google.com/search?q=pt&tbm=isch&source=iu&ictx=1&fir=VCYHbFWUXK1bcM%253A%252CM4Vr7aewOOXGPM%252C%252Fg%252F11b6bc8z_d&vet=1&usg=AI4_-kQM1thAgNyIdixtz5cV-Ndb9d9Ssw&sa=X&ved=2ahUKEwjyz6jE6oXhAhXFyrwKHY0JCfcQ_B0wE3oECAUQEQ#imgrc=dEkqzbZMnEh1gM:&vet=1" /></p>
   
