@@ -12,8 +12,9 @@
   <h5>點擊圖片看介紹</h5>
 
 <h2>3.Amnesia: The Dark Descent</h2>
-<p><a href="https://j24576931000.github.io/Amnesia-The-Dark-Descent/">
+<p><a href="https://j24576931000.github.io/Amnesia-The-Dark-Descent/.">
   <img src="https://steamcdn-a.akamaihd.net/steam/apps/57300/header.jpg?t=1470159681" /></a></p>
 <h5>點擊圖片看介紹</h5>
 <p><a href="https://j24576931000.github.io/HORROR-HOUSE/">
   ---------------------------------------------------------------回首頁------------------------------------------------------------</a></p>
+
