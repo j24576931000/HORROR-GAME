@@ -3,7 +3,7 @@
 
 <h2>1. outlast</h2>
 <p><a href=" https://j24576931000.github.io/outlast/"><img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Outlast2.png" /></a></p>
-<p><a href=" https://j24576931000.github.io/outlast/">點擊圖片看介紹</a></p>
+<p><a href="https://j24576931000.github.io/outlast/">點擊圖片看介紹</a></p>
 
   
 
