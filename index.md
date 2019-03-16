@@ -29,3 +29,4 @@
 <p>----------影片----------</p>
 <p>Amnesia: The Dark Descent</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hyUf3Ctx-Ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://j24576931000.github.io/HORROR-HOUSE/">回首頁</a></p>
