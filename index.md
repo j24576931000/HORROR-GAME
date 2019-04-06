@@ -1,4 +1,12 @@
 <h1>Welcome<h1>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("img").toggle();
+  });
+});
+</script>
+</head>
 <p><button type="button" style="position:fixed;top:100px;left:100px">點此隱藏/開啟圖片</button></p>
 
 <h2>1. outlast</h2>
