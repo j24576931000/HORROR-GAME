@@ -7,8 +7,8 @@ $(document).ready(function(){
   });
 });
 </script>
-</head>
-<p><button type="button" style="position:fixed;top:100px;left:100px">點此隱藏/開啟圖片</button></p>
+
+<p><button type="button" style="position:fixed;top:100px;left:100px">點此開啟圖片</button></p>
 
 <h2>1. outlast</h2>
 <p><a href=" https://j24576931000.github.io/outlast/"><img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Outlast2.png" /></a></p>
